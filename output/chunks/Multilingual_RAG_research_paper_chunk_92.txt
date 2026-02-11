@@ -1,0 +1,1 @@
+Adwait Agashe, and Chris Callison-Burch. 2024. Bordirlines: A dataset for evaluating cross-lingual retrieval- augmented generation. Shayne Longpre, Yi Lu, and Joachim Daiber. 2021. Mkqa: A linguistically diverse benchmark for multi- lingual open domain question answering.

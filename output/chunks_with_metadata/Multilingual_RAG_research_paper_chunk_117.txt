@@ -1,0 +1,3 @@
+METADATA: {'document_id': 'Multilingual_RAG_research_paper', 'section_name': '(ALL) and retrieval done in English+Query specific language (En+SL).', 'chunk_id': 117}
+
+(ALL) and retrieval done in English+Query specific language (En+SL).

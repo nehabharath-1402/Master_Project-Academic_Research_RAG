@@ -1,0 +1,1 @@
+research questions: RQ1: How does multilingual retrieval affect RAG accuracy and consistency? RQ2: What are the benefits and limitations of incorporating multilingual knowledge in RAG models? RQ3: Which methods could improve multilingual RAG performance? To answer these questions, we produce a comprehensive evaluation by introducing strate- arXiv:2504.03616v2 [cs.CL] 3 Oct 2025

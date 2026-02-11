@@ -1,0 +1,1 @@
+RAG approach), but the accuracy is significantly lower. These results demonstrate that the models analysed generally follow instruc- tions (given prompt); however, when operating with multilingual knowledge (i.e., MultiRAG), they fail to both follow instructions and deliver the correct response, especially in low-resource languages. Figure 5: Average generated languages for MKQA.

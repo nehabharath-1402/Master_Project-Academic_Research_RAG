@@ -1,0 +1,3 @@
+METADATA: {'document_id': 'Multilingual_RAG_research_paper', 'section_name': 'evaluation. Language MLQA MKQA German 69.8 67.5 Italian 69.2 - Chinese 64.4 62.3 Japanese 56.8 - Spanish 69.2 69.6 Portuguese 69.0 - Russian 64.2 - Arabic 59.1 43.9 Hindi - 40.6 Finnish 57.0 - Korean 39.4 - Thai 23.9 - Vietnamese - 44.5 Avg 58.9 54.7 Avg LR 45.2 43.3 Table 10: Performances Llama-3-8b with Translation- following tuning.', 'chunk_id': 122}
+
+evaluation. Language MLQA MKQA German 69.8 67.5 Italian 69.2 - Chinese 64.4 62.3 Japanese 56.8 - Spanish 69.2 69.6 Portuguese 69.0 - Russian 64.2 - Arabic 59.1 43.9 Hindi - 40.6 Finnish 57.0 - Korean 39.4 - Thai 23.9 - Vietnamese - 44.5 Avg 58.9 54.7 Avg LR 45.2 43.3 Table 10: Performances Llama-3-8b with Translation- following tuning.

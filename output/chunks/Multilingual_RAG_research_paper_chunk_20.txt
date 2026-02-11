@@ -1,0 +1,1 @@
+value of expanding retrieval beyond English (§2.3). 2.1 RAG Pipelines In traditional RAG, knowledge is acquired from domains D (e.g., Wikipedia or internal databases) and used during inference to promote accurate gen- eration. The pipeline is structured into phases: Retrieval In this phase, the relevant top-k doc- uments docs = {d1, . . . , dk} are retrieved, based

@@ -1,0 +1,3 @@
+METADATA: {'document_id': 'Multilingual_RAG_research_paper', 'section_name': '4used via Google Translate API python package 5To simplify discussion for the rest of the paper, we will refer to these models using Llama-3-8b and Command-R.', 'chunk_id': 42}
+
+4used via Google Translate API python package 5To simplify discussion for the rest of the paper, we will refer to these models using Llama-3-8b and Command-R.

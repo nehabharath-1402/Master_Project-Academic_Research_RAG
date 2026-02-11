@@ -1,0 +1,1 @@
+from Korean) Answer GPT-4o (MultiRAG): The song "Barbie Girl" was written by Søren Rasted, Claus Norreen, René Dif, and Lene Nystrøm, members of the Danish- Norwegian dance-pop group Aqua. The answer is: Aqua. (translated from Korean) Table 17: An example of MultiRAG inference. We have translated documents and answers into English to facilitate the understanding as in Table 16.

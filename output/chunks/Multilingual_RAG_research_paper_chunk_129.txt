@@ -1,0 +1,1 @@
+languages of retrieved documents. We retrieve the documents using R system from the Wikipedia dump (detailed in §3) considering both English+Specific Language (WEn+SL) and all languages analysed in the task (WALL). The languages are checked using OpenLID framework (Burchell et al., 2023).

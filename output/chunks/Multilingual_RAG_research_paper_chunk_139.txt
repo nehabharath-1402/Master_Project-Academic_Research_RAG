@@ -1,0 +1,1 @@
+as the creator of Peter Pan. He was born and educated in Scotland and then moved to London, where he wrote several successful novels and plays. Table 15: An example of bad document retrieval using tRAG (query translated before retrieval). The retrieved documents are relevant to the target query.
