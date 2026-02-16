@@ -1,5 +1,6 @@
 from pathlib import Path
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
 
 INPUT_DIR = Path("output/cleaned")
 CHUNK_DIR = Path("output/chunks")
