@@ -1,3 +1,0 @@
-METADATA: {'document_id': 'Multilingual_RAG_research_paper', 'section_name': '--- ---', 'chunk_id': 1}
-
---- ---
