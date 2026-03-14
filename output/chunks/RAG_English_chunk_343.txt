@@ -1,0 +1,1 @@
+2022. [351] W. Jiang, S. Zhang, B. Han et al., “Piperag: Fast retrieval-augmented generation via algorithm-system co-design,” arXiv:2403.05676, 2024. [352] K. Meduri et al., “Efficient rag framework for large-scale knowledge bases,” 2024. [353] S. Jindal, “Did google gemini 1.5 really kill rag?” https:// analyticsindiamag.com/did-google-gemini-1-5-really-kill-rag/, 2024.

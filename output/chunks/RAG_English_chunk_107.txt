@@ -1,0 +1,1 @@
+on the query complexity by a classifier, which is a smaller LM. Iterative RAG: Iterative RAG progressively refines results by repeatedly cycling through retrieval and generation phases, rather than a single round. RepoCoder [186] uses an iterative retrieval-generation ap- proach for code completion, refining queries with previously

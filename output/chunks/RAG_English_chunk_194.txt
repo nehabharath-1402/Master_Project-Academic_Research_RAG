@@ -1,0 +1,1 @@
+Attention Fig. 10: Architecture of Re-AudioLDM [116] model. Re-AudioLDM [116] retrieves relevant caption-audio pairs with dense retriever CLAP [26] for generation. Make-An- Audio [44] retrieves audios given text prompt, then constructs pseudo prompts for text-to-audio diffusion model training.

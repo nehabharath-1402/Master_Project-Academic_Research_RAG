@@ -1,0 +1,1 @@
+and then (ii) an index is constructed to organize the data source for efficient search. 1) Sparse Retriever: Sparse retrieval methods are com- monly used in document retrieval, where the keys/values rep- resent the documents to be searched. These methods leverage

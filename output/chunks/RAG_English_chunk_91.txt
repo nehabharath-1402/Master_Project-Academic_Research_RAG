@@ -1,0 +1,1 @@
+document in each round through a template, and subsequently restructures it via a pre-trained LLMs (GPT-3.5-Turbo etc.). Others: In addition to the above optimization methods, there are also some other optimization methods for the retrieve process. For example, meta-data filtering [162] is a method to help processing retrieved documents which uses metadata (such

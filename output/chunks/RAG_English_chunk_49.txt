@@ -1,0 +1,1 @@
+BART as the generator to effectively enhance the generation. SELF-RAG [85] utilizes a critique module to determine whether the retrieval is required. In addition to being compatible with local generators, query-based RAG is also applicable to scenarios that use LLM through API calls. RE- PLUG [86] follows this methodology by treating the language
